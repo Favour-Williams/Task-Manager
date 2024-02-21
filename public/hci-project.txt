@@ -1,0 +1,4 @@
+Task manager Appliacation
+-------------------------
+- UI (Components)
+- Task list
